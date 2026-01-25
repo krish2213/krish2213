@@ -1,5 +1,3 @@
-# 💫 About Me:
-👩‍🎓 I'm a student<br>Passionate about problem-solving, coding, and building efficient solutions. 🚀<br><br>⚡I’m looking to collaborate on<br>AI/ML projects , Web development 🌐 <br><br>🤝 I’m looking for help with<br>ML Models, Full Stack Development  <br><br>🌱 I’m currently learning<br>OpenCV 🖼️, Computer Networks 🌐 and LLMs<br><br>
 
 ## 🌐 Socials & Profiles:
 <p align="left">
