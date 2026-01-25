@@ -1,5 +1,6 @@
-
-## 🌐 Socials & Profiles:
+# Hi, I’m Krishnapriya 👋  
+I’m a Computer Science Undergrad at Sri Sairam Engineering College
+# 🌐 Socials & Profiles:
 <p align="left">
   <a href="https://www.linkedin.com/in/krishnapriya-k-68a7b5254/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Krishnapriya_K" height="30" width="40" />
@@ -17,7 +18,7 @@
 
 
 
-## 💻 Tech Stack:
+# 💻 Tech Stack:
 <p align="left">
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" height="30" width="40" />
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="30" width="40" />
