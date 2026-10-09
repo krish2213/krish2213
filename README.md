@@ -1,5 +1,5 @@
 # Hi, I’m Krishnapriya 👋  
-I’m a Computer Science Undergrad at Sri Sairam Engineering College
+Software Engineer
 # 🌐 Socials & Profiles:
 <p align="left">
   <a href="https://www.linkedin.com/in/krishnapriya-k-68a7b5254/" target="blank">
